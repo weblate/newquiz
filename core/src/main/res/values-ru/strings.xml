@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="close">Закрыто</string>
+    <string name="item_i_none">Предмет %1$s отсутствует</string>
+    <string name="back">Назад</string>
+    <string name="saved_questions">Сохраненные вопросы</string>
+    <string name="wordle_daily">Ежедневный текст</string>
+    <string name="verify">Проверить</string>
+    <string name="play_again">Играть еще раз</string>
+    <string name="quick_quiz">Быстрый тест</string>
+    <string name="more_options">Дополнительные параметры</string>
+    <string name="wordle_infinite">Мир бесконечен</string>
+    <string name="game_over">игра окончена</string>
+    <string name="item_empty">Элемент пустой</string>
+</resources>
