@@ -321,4 +321,5 @@
     <string name="word_invalid_math_formula_error">La fórmula de la izquierda no es igual a la solución de la derecha</string>
     <string name="word_not_only_digits_error">La palabra debe contener solo dígitos</string>
     <string name="word_not_only_letters_error">La palabra debe contener solo letras</string>
+    <string name="category_information">Información de la categoría</string>
 </resources>
