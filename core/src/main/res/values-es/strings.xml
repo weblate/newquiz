@@ -288,11 +288,11 @@
     <string name="this_week">Esta semana</string>
     <string name="today">Hoy</string>
     <string name="general_settings_summary">Categorías, Animaciones</string>
-    <string name="translation_settings_summary">Idioma de la traducción</string>
+    <string name="translation_settings_summary">Idioma de traducción</string>
     <string name="wordle_settings_summary">Modo difícil, lenguaje de prueba, pistas de letra</string>
     <string name="about_and_help_settings_summary">Versión, Contacto, Licencias de código abierto</string>
     <string name="multi_choice_settings_summary">Recuento de pregunta</string>
-    <string name="select_only_offline">Seleccione solo sin conexión</string>
+    <string name="select_only_offline">Seleccionar sólo Sin conexión</string>
     <string name="maze_settings_auto_scroll_title">Auto-desplazamiento a la pregunta actual</string>
     <string name="maze_settings_auto_scroll_summary">Auto-desplazarse a la pregunta actual al jugar al laberinto.</string>
     <string name="remaining_time">Queda: %1$s</string>
@@ -324,6 +324,8 @@
     <string name="category_information">Información de categoría</string>
     <string name="invalid_questions">Preguntas no válidas</string>
     <string name="invalid_questions_description">Hay %1$d preguntas con categorías no válidas. Quite las preguntas para seguir jugando o reinicia el laberinto.</string>
-    <string name="remove_them">Eliminarlas</string>
+    <string name="remove_them">Quitarlos</string>
     <string name="restart">Reiniciar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="restart_maze_dialog_description">¿Seguro que quieres reiniciar el laberinto?</string>
 </resources>
